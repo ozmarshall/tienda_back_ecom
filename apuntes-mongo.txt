@@ -1,0 +1,2 @@
+db => mostrara en que base de dat estamos trabajando
+use NOM
